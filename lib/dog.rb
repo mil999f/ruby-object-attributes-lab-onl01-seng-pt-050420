@@ -10,5 +10,6 @@ class dog
 
 end
 
-tigger = dog.new("Tigger", Poodle)
+tigger = dog.new("Tigger", poodle)
+
 
