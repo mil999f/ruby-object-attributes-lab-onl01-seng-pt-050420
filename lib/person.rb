@@ -1,2 +1,7 @@
 class Person
-  def name =
+  def name=(p_name)
+    @name
+  end
+  
+  def job(p_job)
+    
