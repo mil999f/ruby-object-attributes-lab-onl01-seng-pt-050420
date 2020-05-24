@@ -3,5 +3,5 @@ class Person
     @name
   end
   
-  def job(p_job)
+  def job=(job)
     
