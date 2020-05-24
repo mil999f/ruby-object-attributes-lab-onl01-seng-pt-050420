@@ -11,5 +11,5 @@ class dog
 end
 
 tigger = dog.new("Tigger", poodle)
-
+tigger.name
 
